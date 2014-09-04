@@ -11,7 +11,7 @@ end
 group :test do
 	gem 'capybara'
 end
-group :development do
+group :production do
 	gem 'pg'
 end
 # Use SCSS for stylesheets
